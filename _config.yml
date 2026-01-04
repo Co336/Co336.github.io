@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wei Chu"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Student of USTC, major in CS"
   location         : "Hefei, Anhui, China"
   employer         : # "Red Brick University"
